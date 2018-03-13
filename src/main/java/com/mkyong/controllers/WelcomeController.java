@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.mkyong.controllers;
 
 import java.util.Map;
 
